@@ -1,0 +1,15 @@
+/Users/travis-johnprol/Desktop/Udemy-Algos/bin/Debug/net5.0/Udemy-Algos.deps.json
+/Users/travis-johnprol/Desktop/Udemy-Algos/bin/Debug/net5.0/Udemy-Algos.runtimeconfig.json
+/Users/travis-johnprol/Desktop/Udemy-Algos/bin/Debug/net5.0/Udemy-Algos.runtimeconfig.dev.json
+/Users/travis-johnprol/Desktop/Udemy-Algos/bin/Debug/net5.0/Udemy-Algos.dll
+/Users/travis-johnprol/Desktop/Udemy-Algos/bin/Debug/net5.0/ref/Udemy-Algos.dll
+/Users/travis-johnprol/Desktop/Udemy-Algos/bin/Debug/net5.0/Udemy-Algos.pdb
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.csproj.AssemblyReference.cache
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.AssemblyInfoInputs.cache
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.AssemblyInfo.cs
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.csproj.CoreCompileInputs.cache
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.dll
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/ref/Udemy-Algos.dll
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.pdb
+/Users/travis-johnprol/Desktop/Udemy-Algos/obj/Debug/net5.0/Udemy-Algos.genruntimeconfig.cache
